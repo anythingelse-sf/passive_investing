@@ -39,4 +39,4 @@ Build the entire ETF portfolio and then evaluate its performance by using SQL jo
 
 #### Deploy the Notebook as a Web Application
 
-![This is an image](http://localhost:8866/)
+![Voila Screengrab](Voila_Capture.JPG)
