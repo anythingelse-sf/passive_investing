@@ -39,6 +39,4 @@ Build the entire ETF portfolio and then evaluate its performance by using SQL jo
 
 #### Deploy the Notebook as a Web Application
 
-1. Use the Voilà library to deploy your notebook as a web application. You can deploy the web application locally on your computer.
-2. Take a screen recording or screenshots to show how the web application appears when using Voilà. Include the recording or screenshots in the `README.md` file for your GitHub repository.
-
+![This is an image](http://localhost:8866/)
